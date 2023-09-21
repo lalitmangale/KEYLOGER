@@ -1,0 +1,36 @@
+Hey there 
+im lalit and i guide you that how you install this "KEYLOGER"
+
+important :- You must have a pynput in your machine 
+if you dont have 
+1)open CMD in Windows machine
+2) type "pip install pynput"
+
+ 
+How to run a code ? 
+step 1 
+downlode as a zip file 
+
+step 2
+ extract here 
+
+step 3
+the file who named as "Main" open in VS code 
+
+step 4 
+press ctrl+j for open terminal , 
+
+step 4
+using "cd" command change the directory which you download and extract whole file 
+
+step 5 
+than type "python Main.py"
+
+step 6 
+also you follow this step 4 & 5 in WIN cmd 
+
+step 7 
+than the "demo" .txt file will automatically create in folder 
+
+step 8 
+here your keyloger is ready .....
